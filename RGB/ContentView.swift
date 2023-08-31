@@ -3,7 +3,8 @@
 //  RGB
 //
 //  Created by Roman on 8/31/23.
-//
+//  Dear mentors, I merged my feature branch without creatign a pull request.
+//  I created homework branch just to notify you about the completion of this assignment.
 
 import SwiftUI
 
